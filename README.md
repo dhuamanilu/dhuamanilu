@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhuamanilu&label=Profile%20views&color=0e75b6&style=flat" alt="dhuamanilu" /> </p>
 
-- 🔭 I’m currently working on **drugstore app**
-
-- 🌱 I’m currently learning **Django,Angular**
+- 🌱 I’m currently learning **Django,Express**
+  
+-💬 Ask me about **Competitive Programming**
 
 - 💬 Ask me about **C++**
 
