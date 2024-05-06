@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django,Express**
   
--💬 Ask me about **Competitive Programming**
+- 💬 Ask me about **Competitive Programming**
 
 - 💬 Ask me about **C++**
 
