@@ -134,7 +134,7 @@
     <img
   src="https://github-readme-stats.vercel.app/api?username=dhuamanilu&show_icons=true&theme=tokyonight&hide_border=true"
    height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhuanight&layout=compact&theme=tokyonight&h
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhuamanilu&layout=compact&theme=tokyonight&h
   ide_border=true" height="150" />
   </p>
 
