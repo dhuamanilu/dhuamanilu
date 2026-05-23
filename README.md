@@ -125,7 +125,17 @@ Team **Gunter132FanClub** — 8,793 teams · 19,000+ participants · 75 countrie
 | 🏛️ UNSA | **1st place** |
 
 ---
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhuamanilu/dhuamanilu/main/github-metrics.svg" alt="GitHub Metrics" width="800">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhuamanilu/dhuamanilu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhuamanilu/dhuamanilu/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dhuamanilu/dhuamanilu/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 <p align="center">
   <i>Open to backend, AI/ML engineering, and data engineering roles — remote or relocation.</i>
 </p>
