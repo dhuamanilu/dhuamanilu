@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>Open to backend, AI/ML engineering, and data engineering roles — remote or relocation.</strong>
+</p>
+
 ---
 
 I am a Systems Engineer building **scalable backend systems and production-grade AI integrations**. My focus spans from RAG pipelines and agentic workflows to distributed execution and ML-powered APIs. Currently, I work with Python, FastAPI, Docker, LangGraph, and cloud environments, deploying robust systems that combine backend engineering with document-grounded reasoning.
@@ -73,7 +77,7 @@ I am a Systems Engineer building **scalable backend systems and production-grade
 ## 🚀 Featured Projects
 
 ### 🪚 CorteListo — Multimodal AI Automation Platform
-> Manufacturing Cut-List Workflows
+> Manufacturing Cut-List Workflows · Private production project
 
 - Architected a production-grade FastAPI platform converting handwritten images, PDFs, Excel/CSV files, and dictated audio into structured cut-lists.
 - Integrated Vertex AI with versioned prompts, multimodal extraction, and reproducible evaluation runs to ensure reliability.
@@ -84,8 +88,8 @@ I am a Systems Engineer building **scalable backend systems and production-grade
 
 ---
 
-### 💹 Nasdaq Financial Advisor — Enterprise AI Chatbot
-> RAG pipeline deployed on AWS EC2 · Live demo available
+### 💹 [Nasdaq Financial Advisor](https://github.com/dhuamanilu/nasdaq-financial-advisor) — Enterprise AI Chatbot
+> RAG pipeline deployed on AWS EC2
 
 - Containerized microservices backend with **FastAPI + PostgreSQL + Docker**.
 - **RAG pipeline** integrating Claude 3 (AWS Bedrock) + Pinecone — processes NASDAQ financial filings with **<5s latency** and sub-millisecond vector retrieval.
@@ -125,19 +129,14 @@ Team **Gunter132FanClub** — 8,793 teams · 19,000+ participants · 75 countrie
 | 🏛️ UNSA | **1st place** |
 
 ---
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dhuamanilu/dhuamanilu/main/github-metrics.svg" alt="GitHub Metrics" width="800">
-</p>
+<details>
+  <summary>View GitHub metrics</summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhuamanilu/dhuamanilu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhuamanilu/dhuamanilu/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dhuamanilu/dhuamanilu/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-<p align="center">
-  <i>Open to backend, AI/ML engineering, and data engineering roles — remote or relocation.</i>
-</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/dhuamanilu/dhuamanilu/main/github-metrics.svg" alt="GitHub Metrics" width="650">
+  </p>
+</details>
 
 ---
