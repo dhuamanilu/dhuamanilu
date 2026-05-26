@@ -26,7 +26,7 @@ jobs:
           
           # Plugin de lenguajes
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, kotlin, c#, shaderlab, java
+          plugin_languages_ignored: html, css, scss, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, hcl, mathematica, perl, hlsl, shaderlab
           plugin_languages_skipped: |
             dhuamanilu/PSFINAL
             dhuamanilu/programacion
